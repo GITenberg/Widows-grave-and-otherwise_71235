@@ -1,0 +1,38 @@
+_repo: Widows-grave-and-otherwise_71235
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Willmarth, Cora D.
+    birthdate: 1862
+    deathdate: 1913
+    gutenberg_agent_id: '56136'
+    url: http://www.gutenberg.org/2009/agents/56136
+  illustrator:
+    agent_name: Willmarth, A. F.
+    alias: Willmarth, Arthur
+    birthdate: 1850
+    deathdate: 1938
+    gutenberg_agent_id: '56137'
+    url: http://www.gutenberg.org/2009/agents/56137
+description: ''
+gutenberg_issued: '2023-07-20'
+identifiers:
+  gutenberg: '71235'
+language: en
+pgterms:marc904: https://archive.org/details/widowsgraveother00willrich/page/n9/mode/2up
+pgterms:marc905: 20220706134218willmarth
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bPaul Elder and Company, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quotations'
+- !lcsh 'Widows'
+- !lcc 'PN'
+- GITenberg
+title: Widows grave and otherwise
+url: http://www.gutenberg.org/ebooks/71235
