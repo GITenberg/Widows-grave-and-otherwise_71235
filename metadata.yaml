@@ -14,7 +14,12 @@ contributor:
     deathdate: 1938
     gutenberg_agent_id: '56137'
     url: http://www.gutenberg.org/2009/agents/56137
+covers:
+- cover_type: archival
+  image_path: 71235-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71235#Widows-grave-and-otherwise
 gutenberg_issued: '2023-07-20'
 identifiers:
   gutenberg: '71235'
